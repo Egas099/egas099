@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[Personal site](https://egas099.github.io/)
 <!--
 **Egas099/egas099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
