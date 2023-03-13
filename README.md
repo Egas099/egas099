@@ -54,7 +54,7 @@
      height="40"
 /></a>&nbsp;
 
-#### Know
+#### Know:
 
 <a href="https://redux.js.org" target="_blank"
     ><img
@@ -154,7 +154,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=egas099&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=egas099)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egas099&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
