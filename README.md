@@ -75,16 +75,16 @@
 <a href="https://mui.com" target="_blank"
     ><img
         src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"
-        title="Jest"
-        alt="Jest"
+        title="MUI"
+        alt="MUI"
         width="40"
         height="40"
 /></a>&nbsp;
 <a href="https://ant.design" target="_blank"
     ><img
         src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png"
-        title="Jest"
-        alt="Jest"
+        title="AntDesign"
+        alt="AntDesign"
         width="40"
         height="40"
 /></a>&nbsp;
