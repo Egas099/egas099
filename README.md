@@ -82,7 +82,7 @@
 /></a>&nbsp;
 <a href="https://ant.design" target="_blank"
     ><img
-        src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png"
+        src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
         title="AntDesign"
         alt="AntDesign"
         width="40"
