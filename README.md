@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+I'm Egor - front-end programmer.
 ***
 
 ### :hammer_and_wrench: Languages and Tools :
